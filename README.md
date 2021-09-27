@@ -1,6 +1,6 @@
 # 이웃집 토토치 1조 🔥
 
-![pytorch](day_1/img/pytorch.png)
+![pytorch](day_1/img/torch.jpg)
 
 ## 🗒️ 구성원
 
