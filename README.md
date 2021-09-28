@@ -21,3 +21,4 @@
 | 4일차        | [Day4: 전이학습(CIFAR-10)]() | Transfer Learning, sweeps  |
 
 <br>
+test
